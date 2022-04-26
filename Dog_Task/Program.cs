@@ -30,5 +30,4 @@ while(distance > 1)
     count++;
     friend = friend *(-1);
 }
-Console.Write("Dog will shuttle :");
-Console.WriteLine(count);
+Console.Write("Dog will shuttle :" + count + " times");
